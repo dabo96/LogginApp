@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|c:\\users\\dbc_1\\source\\repos\\logginapp\\logginapp\\src\\app\\loggin\\loggin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|solutionrelative:logginapp\\src\\app\\loggin\\loggin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|c:\\users\\dbc_1\\source\\repos\\logginapp\\logginapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|solutionrelative:logginapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|c:\\users\\dbc_1\\source\\repos\\logginapp\\logginapp\\src\\app\\loggin\\loggin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|solutionrelative:logginapp\\src\\app\\loggin\\loggin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|c:\\users\\dbc_1\\source\\repos\\logginapp\\logginapp\\src\\app\\loggin\\loggin.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|solutionrelative:logginapp\\src\\app\\loggin\\loggin.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|c:\\users\\dbc_1\\source\\repos\\logginapp\\logginapp\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2BE19A3-BE81-4A03-BD8E-8B5577DBBB6D}|LogginApp\\LogginApp.esproj|solutionrelative:logginapp\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "LogginApp\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\app.module.ts",
+              "RelativeToolTip": "LogginApp\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-31T22:19:42.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loggin.component.css",
+              "DocumentMoniker": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\loggin\\loggin.component.css",
+              "RelativeDocumentMoniker": "LogginApp\\src\\app\\loggin\\loggin.component.css",
+              "ToolTip": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\loggin\\loggin.component.css",
+              "RelativeToolTip": "LogginApp\\src\\app\\loggin\\loggin.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-31T22:14:47.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loggin.component.ts",
+              "DocumentMoniker": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\loggin\\loggin.component.ts",
+              "RelativeDocumentMoniker": "LogginApp\\src\\app\\loggin\\loggin.component.ts",
+              "ToolTip": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\loggin\\loggin.component.ts",
+              "RelativeToolTip": "LogginApp\\src\\app\\loggin\\loggin.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-31T22:06:57.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loggin.component.html",
+              "DocumentMoniker": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\loggin\\loggin.component.html",
+              "RelativeDocumentMoniker": "LogginApp\\src\\app\\loggin\\loggin.component.html",
+              "ToolTip": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\loggin\\loggin.component.html",
+              "RelativeToolTip": "LogginApp\\src\\app\\loggin\\loggin.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-31T18:20:59.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "LogginApp\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\dbc_1\\source\\repos\\LogginApp\\LogginApp\\src\\app\\app.component.html",
+              "RelativeToolTip": "LogginApp\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-31T18:02:16.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
