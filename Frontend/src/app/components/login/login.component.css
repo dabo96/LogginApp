@@ -1,0 +1,77 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    height: 100%;
+}
+
+.titulo{
+    color: black;
+    font-size: 55px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 30px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.logo{
+    height: 150px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.user{
+    margin-bottom: -5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 300px;
+    width: 100%;
+    height: 90px;
+}
+
+.password{
+    margin-bottom: -5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 300px;
+    width: 100%;
+    height: 90px;
+}
+
+.body{
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    box-shadow: 5px 10px 8px #000000;
+}
+
+.buttonContainer{
+    max-width: 300px;
+    width: 100%;    
+    margin-top: 15px;
+    border-radius: 5%;
+    transform: translateX(33%);
+}
+
+.loginButton{    
+    font-size: 24px;
+    width: 100%;
+    height: 60px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.loginButton:hover{    
+    font-size: 24px;
+    width: 100%;
+    height: 60px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: indigo;
+}
+
+.noCuenta{
+    margin-bottom: 30px;
+    margin-top: 5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,45 @@
+html,
+body{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+@use "@angular/material" as mat;
+
+@include mat.core();
+
+$theme: mat.define-theme((
+    color: (
+        theme-type: dark,
+        primary: mat.$violet-palette,
+    ),
+    typography:(
+        brand-family: "Helvetica Neue",
+        bold-weight: 900
+    ),
+    density: (
+        scale: -1
+    )
+));
+
+$my-app-primary: mat-palette($mat-indigo);
+$my-app-accent: mat-palette($mat-pink, A200, A100, A400);
+$my-app-warn: mat-palette($mat-red);
+
+$my-app-theme: mat-light-theme($my-app-primary, $my-app-accent, $my-app-warn);
+
+$my-app-theme: mat-light-theme(
+    (
+        color: (
+            primary: $my-app-primary,
+            accent: $my-app-accent,
+            warn: $my-app-warn,
+        ),
+    )
+);
+
+@include angular-material-theme($my-app-theme);

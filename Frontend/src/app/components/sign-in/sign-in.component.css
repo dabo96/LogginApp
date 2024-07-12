@@ -1,0 +1,107 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    height: 100%;
+}
+
+.titulo{
+    color: black;
+    font-size: 36px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 30px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.logo{
+    height: 150px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.user{
+    margin-bottom: -8px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 350px;
+    width: 100%;
+    height: 90px;    
+}
+
+.password{
+    margin-bottom: -8px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 350px;
+    width: 100%;
+    height: 90px;
+}
+
+.passwordRep{
+    margin-bottom: -8px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 350px;
+    width: 100%;
+    height: 90px;
+}
+
+.body{
+    max-width: 550px;
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    box-shadow: 5px 10px 8px #000000;
+}
+
+.buttonContainer{
+    max-width: 350px;
+    width: 100%;    
+    margin-top: 15px;
+    border-radius: 5%;
+    transform: translateX(28%);
+}
+
+.loginButton{    
+    font-size: 24px;
+    width: 100%;
+    height: 60px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.loginButton:hover{    
+    font-size: 24px;
+    width: 100%;
+    height: 60px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: indigo;
+}
+
+.volver:link, .volver:visited{    
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    max-width: 100%;
+    background-color: #4a4a4a;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.volver:hover, .volver:active{    
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    max-width: 100%;
+    background-color: blueviolet;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.volverContainer{
+    margin-bottom: 20px;
+    margin-top: 5px;
+}

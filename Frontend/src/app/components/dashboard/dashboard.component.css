@@ -1,0 +1,22 @@
+.titulo{
+    font-size: 48px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: black;
+}
+
+.container{
+    display: block;
+}
+
+.wrapper{
+    display: block;
+    height: 100%;
+}
+
+.tabla{
+    width: 100%;
+}

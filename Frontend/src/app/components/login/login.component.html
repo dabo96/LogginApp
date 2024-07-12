@@ -1,0 +1,22 @@
+<div class="wrapper">
+    <div class="body">
+        <img class="logo" src="../../../assets/img/contrasena-protegida.png" alt="img login">
+        <h1 class="titulo">Ingresar</h1>
+        
+        <div class="inputContainer">
+            <mat-form-field class="user">
+                <mat-label>Usuario</mat-label>
+                <input matInput placeholder="Ex. user123">
+            </mat-form-field>
+            <mat-form-field class="password">
+                <mat-label>Contraseña</mat-label>
+                <input type="password" matInput placeholder="********">
+            </mat-form-field>
+        </div>
+        
+        <div class="buttonContainer">
+            <button class="loginButton" mat-flat-button color="primary" routerLink="/dashboard">Aceptar</button>
+        </div>
+        <p class="noCuenta">No tienes cuenta? <a routerLink="/signIn">Registrar</a></p>
+    </div>
+</div>

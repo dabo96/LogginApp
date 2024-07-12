@@ -1,0 +1,29 @@
+<div class="wrapper">
+    <div class="body">
+        <img class="logo" src="../../../assets/img/contrasena-protegida.png" alt="img login">
+        <h1 class="titulo">Registrar Usuario</h1>
+        
+        <div class="inputContainer">            
+            <mat-form-field class="user">
+                <mat-label>Usuario</mat-label>
+                <input matInput type="text" [(ngModel)]="username" placeholder="Ex. user123">
+            </mat-form-field>
+            <mat-form-field class="password">
+                <mat-label>Contraseña</mat-label>
+                <input type="password" matInput [(ngModel)]="password" placeholder="********">
+            </mat-form-field>
+            <mat-form-field class="passwordRep">
+                <mat-label>Repetir Contraseña</mat-label>
+                <input type="password" matInput [(ngModel)]="confirmPassword" placeholder="********">
+            </mat-form-field>
+        </div>
+
+        <div class="buttonContainer">
+            <button class="loginButton" mat-flat-button color="primary" (click)="addUser()">Aceptar</button>
+        </div>
+        
+        <div class="volverContainer">
+            <a class="volver" routerLink="/login">Volver</a>
+        </div>        
+    </div>
+</div>

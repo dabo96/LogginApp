@@ -1,0 +1,46 @@
+
+.button{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    max-width: 100%;
+    background-color: #C2175B;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button:link, .button:visited{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    max-width: 100%;
+    background-color: #C2175B;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button:hover, .button:active{    
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    max-width: 100%;
+    background-color: #C82F68;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-logout{
+    background-color: #C2175B;
+}
+
+.button-container{
+    position: absolute;
+    top: 7px;
+    right: 2px;
+}
